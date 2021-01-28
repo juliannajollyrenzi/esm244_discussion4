@@ -94,3 +94,6 @@ renderPlot({
 
 ```
 
+To deploy app: 
+`library(rsconnect)`
+`deployApp()`
